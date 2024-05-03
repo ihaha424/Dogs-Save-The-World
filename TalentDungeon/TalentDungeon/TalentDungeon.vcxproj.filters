@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Client">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Engine\Container">
+      <UniqueIdentifier>{2b72713a-f9f2-4dea-977b-dab990608a7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\EventManager">
+      <UniqueIdentifier>{339997ec-ab63-4bad-8a67-626ee99f73a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game">
+      <UniqueIdentifier>{b6d3cc2e-eea3-4aa5-a210-6b2d0f298c87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Random">
+      <UniqueIdentifier>{6e93335b-f708-4b69-a44c-c8d977b6f13b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Input">
+      <UniqueIdentifier>{e3354794-9724-4784-ab50-4b72036e0d6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Time">
+      <UniqueIdentifier>{7c5b6211-b314-432d-b5f7-8efeae2fbaa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Transform">
+      <UniqueIdentifier>{e6e95ec3-6b5f-4640-a56a-86b7dc96c9c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Scene">
+      <UniqueIdentifier>{a5dd18ce-f971-47f0-8df9-3dd4d152e7a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Scene\Stage1">
+      <UniqueIdentifier>{45d7bcd9-4043-4a29-8aa0-9abded83fc34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\GameManager">
+      <UniqueIdentifier>{2d868374-baaf-4295-a1bc-f5bd3d5890b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\GameRender">
+      <UniqueIdentifier>{15fcfc3b-88a4-4ad9-ac50-81c363e305d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\Scene">
+      <UniqueIdentifier>{5f1de5a9-657b-4ec9-afda-57ee8f8c9537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\SceneManager">
+      <UniqueIdentifier>{b413b663-4d37-443b-9d49-7e19b2676135}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\Object">
+      <UniqueIdentifier>{aaf10fe1-9f8a-4925-8b36-15abc65618f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object">
+      <UniqueIdentifier>{21f71c42-5b1d-47df-b71d-387877ee49fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\Player">
+      <UniqueIdentifier>{8f52c2d9-e919-43c7-a0ba-8aeb57a6ef12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\Monster">
+      <UniqueIdentifier>{a9832bce-3517-4240-988b-3449ceea1719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\Weapon">
+      <UniqueIdentifier>{2c8aa992-0284-4715-b3e7-fb17e13c9fcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\PathManager">
+      <UniqueIdentifier>{8a521b67-5fa0-4bb3-8ded-fdd4b1b8c2c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\ResourceManager">
+      <UniqueIdentifier>{6a31ce8e-c417-4fd3-bf87-8c36020f0565}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\ResourceManager\Resource">
+      <UniqueIdentifier>{c1e6aedd-f2c1-4b7a-8ed7-b9f8cfd1e898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\ResourceManager\Resource\Texture">
+      <UniqueIdentifier>{164d8c6d-8483-4339-a75c-d9b4608c7d3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\ResourceManager\Resource\Sound">
+      <UniqueIdentifier>{f8b17828-64c5-4072-be35-2940ca3d3eb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\ColliderManager">
+      <UniqueIdentifier>{121bf7af-6664-4575-aeb9-49a742e6fbce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\Collider">
+      <UniqueIdentifier>{699e0e03-7864-4525-88ca-efff7fe98cb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\BackGround">
+      <UniqueIdentifier>{8538b919-37d9-4989-8618-8c9c2bf644a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\Monster\Common">
+      <UniqueIdentifier>{68683610-d20d-4523-bb34-086b73fdb256}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\Monster\Hero">
+      <UniqueIdentifier>{f2c96565-cc1c-46fe-bc5c-dd68b7e1fec3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\Monster\King">
+      <UniqueIdentifier>{3e9b60eb-5172-42dd-adce-b2cf159fea84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\Monster\Soldier">
+      <UniqueIdentifier>{c14e87a2-d1f0-4fff-a017-8e89e08edf3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Scene\Start">
+      <UniqueIdentifier>{b569306a-4154-4560-82e3-dafbfc27d46b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Scene\Start\UI">
+      <UniqueIdentifier>{644c0ba7-5909-456e-a6bb-553b03d14d1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\Object\UI">
+      <UniqueIdentifier>{dd42ca5e-3a69-41ee-831e-53658a8e0452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\Object\UI\Button">
+      <UniqueIdentifier>{38c65b38-ae36-42e2-a7fa-1144111fa29d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Scene\Stage1\UI">
+      <UniqueIdentifier>{1067f9da-dd7b-49c4-a848-02c7555a0d13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Scene\End">
+      <UniqueIdentifier>{e8092bb7-eb88-4815-954c-b880f405ae88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Scene\End\UI">
+      <UniqueIdentifier>{7fb32fb8-3fe9-46c1-904e-3aecacca928d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\SharedData">
+      <UniqueIdentifier>{b64a5d4b-cc63-4b2a-9045-b2a91b26bc8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game\ResourceManager\SoundManager">
+      <UniqueIdentifier>{107b7445-c508-4916-945e-0dc4e91af367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Object\Weapon\Bone">
+      <UniqueIdentifier>{37f5f615-1472-4c82-a229-1dc40e678375}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Queue.hpp">
+      <Filter>Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.hpp">
+      <Filter>Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="GameRandom.h">
+      <Filter>Engine\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomTable.h">
+      <Filter>Engine\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTime.h">
+      <Filter>Engine\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Engine\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Engine\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedHashMap.hpp">
+      <Filter>Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Engine\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Engine\Game\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameRender.h">
+      <Filter>Engine\Game\GameRender</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Engine\Game\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Engine\Game\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneStage01.h">
+      <Filter>Client\Scene\Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Client</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Client\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Client\Object\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Client\Object\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="DogBowl.h">
+      <Filter>Client\Object\Weapon\Bone</Filter>
+    </ClInclude>
+    <ClInclude Include="Bone.h">
+      <Filter>Client\Object\Weapon\Bone</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Engine\Game\ResourceManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Engine\Game\ResourceManager\Resource\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="PathManager.h">
+      <Filter>Engine\Game\PathManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Engine\Game\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="WinApp.h">
+      <Filter>Client</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ColliderManager.h">
+      <Filter>Engine\Game\ColliderManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Engine\Game\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>Client\Object\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="FactoryMonster.h">
+      <Filter>Client\Object\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="MCommon.h">
+      <Filter>Client\Object\Monster\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="MSoldier.h">
+      <Filter>Client\Object\Monster\Soldier</Filter>
+    </ClInclude>
+    <ClInclude Include="MHero.h">
+      <Filter>Client\Object\Monster\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="MKing.h">
+      <Filter>Client\Object\Monster\King</Filter>
+    </ClInclude>
+    <ClInclude Include="MBoomer.h">
+      <Filter>Client\Object\Monster\King</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneStart.h">
+      <Filter>Client\Scene\Start</Filter>
+    </ClInclude>
+    <ClInclude Include="StartUI.h">
+      <Filter>Client\Object\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Engine\Game\Object\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Engine\Game\Object\UI\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="StartButton.h">
+      <Filter>Client\Scene\Start\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GuideButton.h">
+      <Filter>Client\Scene\Start\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Guide.h">
+      <Filter>Client\Scene\Start\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>Client\Scene\Start\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeUI.h">
+      <Filter>Client\Scene\Stage1\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleLinkedList.hpp">
+      <Filter>Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBoneSkillUI.h">
+      <Filter>Client\Scene\Stage1\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneWin.h">
+      <Filter>Client\Scene\End</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneLose.h">
+      <Filter>Client\Scene\End</Filter>
+    </ClInclude>
+    <ClInclude Include="LoseUI.h">
+      <Filter>Client\Scene\End\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="WinUI.h">
+      <Filter>Client\Scene\End\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SharedData.h">
+      <Filter>Client\SharedData</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Engine\Game\ResourceManager\Resource\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="DieUI.h">
+      <Filter>Client\Scene\Stage1\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>Client\Scene\Stage1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RandomTable.cpp">
+      <Filter>Engine\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="GameRandom.cpp">
+      <Filter>Engine\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSystem.cpp">
+      <Filter>Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTime.cpp">
+      <Filter>Engine\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>Engine\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>Engine\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Engine\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Engine\Game\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameRender.cpp">
+      <Filter>Engine\Game\GameRender</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Engine\Game\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Engine\Game\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneStage01.cpp">
+      <Filter>Client\Scene\Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Client\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Client\Object\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Client\Object\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="DogBowl.cpp">
+      <Filter>Client\Object\Weapon\Bone</Filter>
+    </ClCompile>
+    <ClCompile Include="Bone.cpp">
+      <Filter>Client\Object\Weapon\Bone</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>Engine\Game\ResourceManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Engine\Game\ResourceManager\Resource\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="PathManager.cpp">
+      <Filter>Engine\Game\PathManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Engine\Game\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="WinApp.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+    <ClCompile Include="ColliderManager.cpp">
+      <Filter>Engine\Game\ColliderManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Engine\Game\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>Client\Object\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryMonster.cpp">
+      <Filter>Client\Object\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="MCommon.cpp">
+      <Filter>Client\Object\Monster\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="MSoldier.cpp">
+      <Filter>Client\Object\Monster\Soldier</Filter>
+    </ClCompile>
+    <ClCompile Include="MHero.cpp">
+      <Filter>Client\Object\Monster\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="MKing.cpp">
+      <Filter>Client\Object\Monster\King</Filter>
+    </ClCompile>
+    <ClCompile Include="MBoomer.cpp">
+      <Filter>Client\Object\Monster\King</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneStart.cpp">
+      <Filter>Client\Scene\Start</Filter>
+    </ClCompile>
+    <ClCompile Include="StartUI.cpp">
+      <Filter>Client\Object\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Engine\Game\Object\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Engine\Game\Object\UI\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="StartButton.cpp">
+      <Filter>Client\Scene\Start\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="GuideButton.cpp">
+      <Filter>Client\Scene\Start\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Guide.cpp">
+      <Filter>Client\Scene\Start\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>Client\Scene\Start\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeUI.cpp">
+      <Filter>Client\Scene\Stage1\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBoneSkillUI.cpp">
+      <Filter>Client\Scene\Stage1\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneWin.cpp">
+      <Filter>Client\Scene\End</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneLose.cpp">
+      <Filter>Client\Scene\End</Filter>
+    </ClCompile>
+    <ClCompile Include="LoseUI.cpp">
+      <Filter>Client\Scene\End\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="WinUI.cpp">
+      <Filter>Client\Scene\End\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SharedData.cpp">
+      <Filter>Client\SharedData</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Engine\Game\ResourceManager\Resource\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="DieUI.cpp">
+      <Filter>Client\Scene\Stage1\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Client\Scene\Stage1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

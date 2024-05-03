@@ -1,0 +1,142 @@
+﻿  BackGround.cpp
+  Button.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'BackGround.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Button.cpp(26,51): warning C4244: '인수': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Button.cpp(26,39): warning C4244: '인수': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bone.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'Bone.cpp'을(를) 컴파일하는 중)
+  
+  CLanguage.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'CLanguage.cpp'을(를) 컴파일하는 중)
+  
+  Collider.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Collider.cpp(70,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Collider.cpp(70,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColliderManager.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ColliderManager.cpp(25,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ColliderManager.cpp(32,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ColliderManager.cpp(176,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  LoseUI.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'LoseUI.cpp'을(를) 컴파일하는 중)
+  
+  FireBoneSkillUI.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'FireBoneSkillUI.cpp'을(를) 컴파일하는 중)
+  
+  Guide.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'Guide.cpp'을(를) 컴파일하는 중)
+  
+  GuideButton.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'GuideButton.cpp'을(를) 컴파일하는 중)
+  
+  MBoomer.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'MBoomer.cpp'을(를) 컴파일하는 중)
+  
+  MCommon.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'MCommon.cpp'을(를) 컴파일하는 중)
+  
+  FactoryMonster.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\FactoryMonster.cpp(58,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\FactoryMonster.cpp(59,30): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\FactoryMonster.cpp(81,42): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\FactoryMonster.cpp(110,33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\FactoryMonster.cpp(110,30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameManager.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'GameManager.cpp'을(를) 컴파일하는 중)
+  
+  GameRandom.cpp
+  GameRender.cpp
+  GameTime.cpp
+  InputSystem.cpp
+  MHero.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'MHero.cpp'을(를) 컴파일하는 중)
+  
+  MKing.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'MKing.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\GameRandom.cpp(134,1): warning C4715: 'game::GameRandom::RandPercent': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\GameRandom.cpp(92,1): warning C4715: 'game::GameRandom::RandPercent': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Monster.cpp
+  Object.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Object.cpp(17,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  PathManager.cpp
+  Player.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+  RandomTable.cpp
+  Resource.cpp
+  ResourceManager.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+  Scene.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Scene.cpp(11,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Scene.cpp(29,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Scene.cpp(40,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Scene.cpp(52,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Scene.cpp(73,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Scene.cpp(100,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SceneLose.cpp
+  SceneWin.cpp
+  SceneManager.cpp
+  SceneStage01.cpp
+  MSoldier.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'MSoldier.cpp'을(를) 컴파일하는 중)
+  
+  SceneStart.cpp
+  SharedData.cpp
+  Sound.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Sound.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  (소스 파일 'Sound.cpp'을(를) 컴파일하는 중)
+  
+  StartButton.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'StartButton.cpp'을(를) 컴파일하는 중)
+  
+  StartUI.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'StartUI.cpp'을(를) 컴파일하는 중)
+  
+  Texture.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Texture.cpp(67,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Texture.cpp(66,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Texture.cpp(119,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Texture.cpp(119,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Texture.cpp(140,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\Texture.cpp(139,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimeUI.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'TimeUI.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Title.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'Title.cpp'을(를) 컴파일하는 중)
+  
+  Transform.cpp
+  UI.cpp
+  Vector3.cpp
+  Weapon.cpp
+  WinApp.cpp
+  WinUI.cpp
+C:\Users\User\source\repos\TalentDungeon\TalentDungeon\ResourceManager.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  (소스 파일 'WinUI.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

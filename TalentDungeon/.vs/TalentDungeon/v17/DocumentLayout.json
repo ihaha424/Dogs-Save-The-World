@@ -1,0 +1,864 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FactoryMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\FactoryMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MBoomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\MBoomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MKing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\MKing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MHero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\MHero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MSoldier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\MSoldier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\MCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\EventManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\EventManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DogBowl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\DogBowl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FireBoneSkillUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\FireBoneSkillUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ColliderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\ColliderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Bone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Bone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DogBowl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\DogBowl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\EventManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\EventManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneStage01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\SceneStage01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FactoryMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\FactoryMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\PathManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\PathManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Collider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Collider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameRender.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\GameRender.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DoubleLinkedList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\DoubleLinkedList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SharedData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\SharedData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\StartButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\StartButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\PathManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\PathManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneStage01.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\SceneStage01.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\WinUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FireBoneSkillUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\FireBoneSkillUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\WinUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SharedData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\SharedData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MKing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\MKing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\GameRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\WinApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\LoseUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\LoseUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DieUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\DieUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\LoseUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19DCFFB1-8113-4702-AA32-8F1F2E1716B3}|TalentDungeon\\TalentDungeon.vcxproj|solutionrelative:TalentDungeon\\LoseUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MCommon.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MCommon.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\MCommon.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MCommon.cpp",
+              "RelativeToolTip": "TalentDungeon\\MCommon.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:31:46.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MSoldier.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MSoldier.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\MSoldier.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MSoldier.cpp",
+              "RelativeToolTip": "TalentDungeon\\MSoldier.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:30:32.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MHero.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MHero.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\MHero.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MHero.cpp",
+              "RelativeToolTip": "TalentDungeon\\MHero.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:31:42.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MKing.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MKing.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\MKing.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MKing.cpp",
+              "RelativeToolTip": "TalentDungeon\\MKing.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:31:00.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MBoomer.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MBoomer.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\MBoomer.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MBoomer.cpp",
+              "RelativeToolTip": "TalentDungeon\\MBoomer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:30:48.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventManager.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\EventManager.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\EventManager.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\EventManager.cpp",
+              "RelativeToolTip": "TalentDungeon\\EventManager.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T08:58:45.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ColliderManager.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ColliderManager.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\ColliderManager.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ColliderManager.cpp",
+              "RelativeToolTip": "TalentDungeon\\ColliderManager.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAIAwwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T09:52:43.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Monster.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\Monster.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Monster.cpp",
+              "RelativeToolTip": "TalentDungeon\\Monster.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T10:41:04.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DogBowl.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DogBowl.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\DogBowl.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DogBowl.cpp",
+              "RelativeToolTip": "TalentDungeon\\DogBowl.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:48:47.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FireBoneSkillUI.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FireBoneSkillUI.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\FireBoneSkillUI.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FireBoneSkillUI.cpp",
+              "RelativeToolTip": "TalentDungeon\\FireBoneSkillUI.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T04:54:16.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bone.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Bone.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\Bone.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Bone.cpp",
+              "RelativeToolTip": "TalentDungeon\\Bone.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:48:37.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameManager.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\GameManager.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameManager.cpp",
+              "RelativeToolTip": "TalentDungeon\\GameManager.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:12:14.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PathManager.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\PathManager.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\PathManager.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\PathManager.h",
+              "RelativeToolTip": "TalentDungeon\\PathManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T10:05:54.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Scene.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Scene.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\Scene.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Scene.h",
+              "RelativeToolTip": "TalentDungeon\\Scene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T10:07:06.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Object.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Object.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\Object.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Object.h",
+              "RelativeToolTip": "TalentDungeon\\Object.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T09:52:58.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameManager.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\GameManager.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameManager.h",
+              "RelativeToolTip": "TalentDungeon\\GameManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T10:06:11.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameRender.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameRender.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\GameRender.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameRender.h",
+              "RelativeToolTip": "TalentDungeon\\GameRender.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T10:05:50.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResourceManager.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ResourceManager.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\ResourceManager.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ResourceManager.h",
+              "RelativeToolTip": "TalentDungeon\\ResourceManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T07:54:10.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneManager.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\SceneManager.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneManager.h",
+              "RelativeToolTip": "TalentDungeon\\SceneManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T09:57:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StartButton.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\StartButton.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\StartButton.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\StartButton.cpp",
+              "RelativeToolTip": "TalentDungeon\\StartButton.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvx8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T09:57:59.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\SceneManager.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneManager.cpp",
+              "RelativeToolTip": "TalentDungeon\\SceneManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:41:39.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PathManager.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\PathManager.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\PathManager.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\PathManager.cpp",
+              "RelativeToolTip": "TalentDungeon\\PathManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T09:54:08.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Object.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\Object.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Object.cpp",
+              "RelativeToolTip": "TalentDungeon\\Object.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T09:53:50.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResourceManager.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ResourceManager.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\ResourceManager.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\ResourceManager.cpp",
+              "RelativeToolTip": "TalentDungeon\\ResourceManager.cpp",
+              "ViewState": "AQIAAFUAAAAAAAAAAADgv2gAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:39:19.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UI.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\UI.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\UI.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\UI.h",
+              "RelativeToolTip": "TalentDungeon\\UI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T09:53:11.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\UI.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\UI.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\UI.cpp",
+              "RelativeToolTip": "TalentDungeon\\UI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T09:53:40.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FireBoneSkillUI.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FireBoneSkillUI.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\FireBoneSkillUI.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FireBoneSkillUI.h",
+              "RelativeToolTip": "TalentDungeon\\FireBoneSkillUI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T04:54:15.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WinUI.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinUI.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\WinUI.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinUI.cpp",
+              "RelativeToolTip": "TalentDungeon\\WinUI.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAIAwwDsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T07:41:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GameRender.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameRender.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\GameRender.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\GameRender.cpp",
+              "RelativeToolTip": "TalentDungeon\\GameRender.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T03:28:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WinApp.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinApp.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\WinApp.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinApp.cpp",
+              "RelativeToolTip": "TalentDungeon\\WinApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T02:18:55.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoseUI.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\LoseUI.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\LoseUI.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\LoseUI.cpp",
+              "RelativeToolTip": "TalentDungeon\\LoseUI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T07:18:27.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DieUI.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DieUI.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\DieUI.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DieUI.cpp",
+              "RelativeToolTip": "TalentDungeon\\DieUI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:39:20.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T01:38:15.139Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Player.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\Player.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Player.cpp",
+              "RelativeToolTip": "TalentDungeon\\Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T00:33:04.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactoryMonster.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FactoryMonster.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\FactoryMonster.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FactoryMonster.cpp",
+              "RelativeToolTip": "TalentDungeon\\FactoryMonster.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T00:11:51.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Weapon.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\Weapon.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Weapon.h",
+              "RelativeToolTip": "TalentDungeon\\Weapon.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T10:04:05.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventManager.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\EventManager.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\EventManager.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\EventManager.h",
+              "RelativeToolTip": "TalentDungeon\\EventManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T08:58:42.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DogBowl.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DogBowl.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\DogBowl.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DogBowl.h",
+              "RelativeToolTip": "TalentDungeon\\DogBowl.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T01:52:02.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Weapon.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\Weapon.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Weapon.cpp",
+              "RelativeToolTip": "TalentDungeon\\Weapon.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T10:38:02.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SceneStage01.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneStage01.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\SceneStage01.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneStage01.cpp",
+              "RelativeToolTip": "TalentDungeon\\SceneStage01.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvyQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T03:31:32.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FactoryMonster.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FactoryMonster.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\FactoryMonster.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\FactoryMonster.h",
+              "RelativeToolTip": "TalentDungeon\\FactoryMonster.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T02:49:08.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Collider.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Collider.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\Collider.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Collider.h",
+              "RelativeToolTip": "TalentDungeon\\Collider.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T10:04:56.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Monster.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Monster.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\Monster.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Monster.h",
+              "RelativeToolTip": "TalentDungeon\\Monster.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T10:41:05.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DoubleLinkedList.hpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DoubleLinkedList.hpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\DoubleLinkedList.hpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\DoubleLinkedList.hpp",
+              "RelativeToolTip": "TalentDungeon\\DoubleLinkedList.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T10:04:51.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SharedData.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SharedData.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\SharedData.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SharedData.h",
+              "RelativeToolTip": "TalentDungeon\\SharedData.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T03:50:58.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Button.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Button.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\Button.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Button.h",
+              "RelativeToolTip": "TalentDungeon\\Button.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T09:44:29.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SceneStage01.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneStage01.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\SceneStage01.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SceneStage01.h",
+              "RelativeToolTip": "TalentDungeon\\SceneStage01.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T09:41:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Define.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Define.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\Define.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\Define.h",
+              "RelativeToolTip": "TalentDungeon\\Define.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T07:53:20.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WinUI.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinUI.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\WinUI.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\WinUI.h",
+              "RelativeToolTip": "TalentDungeon\\WinUI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T07:42:47.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MKing.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MKing.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\MKing.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\MKing.h",
+              "RelativeToolTip": "TalentDungeon\\MKing.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T03:32:30.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SharedData.cpp",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SharedData.cpp",
+              "RelativeDocumentMoniker": "TalentDungeon\\SharedData.cpp",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\SharedData.cpp",
+              "RelativeToolTip": "TalentDungeon\\SharedData.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T03:51:12.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoseUI.h",
+              "DocumentMoniker": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\LoseUI.h",
+              "RelativeDocumentMoniker": "TalentDungeon\\LoseUI.h",
+              "ToolTip": "D:\\1\\1\uD559\uAE30\\Win32\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uAE40\uB3D9\uBBFC\\TalentDungeon\\TalentDungeon\\LoseUI.h",
+              "RelativeToolTip": "TalentDungeon\\LoseUI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T07:18:50.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
